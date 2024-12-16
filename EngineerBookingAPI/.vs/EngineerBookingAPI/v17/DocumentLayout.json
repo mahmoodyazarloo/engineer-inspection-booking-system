@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|d:\\projects\\others\\interview\\engineer-inspection-booking-system\\engineerbookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{845A2CB8-9AE5-437C-95A8-EA57449A50FA}|EngineerBookingAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Availability.cs",
+              "RelativeDocumentMoniker": "Models\\Availability.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Availability.cs",
+              "RelativeToolTip": "Models\\Availability.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:04:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EngineersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Controllers\\EngineersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EngineersController.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Controllers\\EngineersController.cs",
+              "RelativeToolTip": "Controllers\\EngineersController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:51:54.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA2wBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:44:33.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:24:09.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T16:00:36.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:00:21.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:58:40.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Engineer.cs",
+              "RelativeDocumentMoniker": "Models\\Engineer.cs",
+              "ToolTip": "D:\\Projects\\Others\\Interview\\engineer-inspection-booking-system\\EngineerBookingAPI\\Models\\Engineer.cs",
+              "RelativeToolTip": "Models\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:57:23.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
